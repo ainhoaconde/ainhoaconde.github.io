@@ -30,3 +30,11 @@ font-weight: 10px;
     font-family: 'Ephesis', cursive;
     font-size: 28px;
 }
+.btn {
+    background-color: #774936;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
