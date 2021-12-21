@@ -13,7 +13,6 @@
     font-family: 'Crimson Text', serif;
     font-weight: 6px;
     font-family: 'Ephesis', cursive;
-
 }
 
 .titlemain{
@@ -23,10 +22,4 @@ color:#603a28;
 background-color: #EDC4B3;
 text-align: center;
 font-weight: 10px;
-}
-.footer {
-    background-color: #EDC4B3;
-    color: #774936;
-    font-family: 'Ephesis', cursive;
-    font-size: 32px;
 }
